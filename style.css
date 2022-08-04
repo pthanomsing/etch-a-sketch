@@ -15,5 +15,10 @@ body {
     border: 3px solid black;
     color: red;
 
-   
+    display:grid;
+}
+
+.grid-element {
+    border: 1px solid pink;
+    background-color: black;
 }
